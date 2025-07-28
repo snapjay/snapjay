@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Software engineer. I like creating and fixing things; physical and virtual.
+Checkout https://snapjay.com for more
 <!--
 **snapjay/snapjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
